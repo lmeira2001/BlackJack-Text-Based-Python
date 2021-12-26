@@ -1,6 +1,4 @@
-Simple text-based BlackJack game. 
-
-Run main.py to play the game.
+Simple text-based BlackJack game. Run main.py to play the game.
 
 RULES OF THE GAME:
 
